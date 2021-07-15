@@ -11,7 +11,7 @@ export default function Header() {
 			</div>
 			<div className="flex justify-center mb-8">
 				<a
-					className="hidden md:block mx-4 border border-blue-500 px-8 text-xl font-bold text-blue-500"
+					className="hidden md:block mx-4 border border-blue-500 px-8 text-xl font-bold text-blue-500 transition hover:bg-blue-600 hover:text-white py-3"
 					href="#downlaoad">
 					Download
 				</a>
