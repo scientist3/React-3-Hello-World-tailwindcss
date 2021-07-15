@@ -1,72 +1,72 @@
 function Footer() {
 	return (
-		<div class="pt-12">
-			<footer id="footer" class="relative z-50 dark:bg-gray-900">
+		<div className="pt-12">
+			<footer id="footer" className="relative z-50 dark:bg-gray-900">
 				<div
 					tabindex="0"
 					aria-label="footer"
-					class="focus:outline-none border-t border-b border-gray-200 dark:border-gray-700 py-16">
-					<div class="mx-auto container px-4 xl:px-12 2xl:px-4">
-						<div class="lg:flex">
-							<div class="w-full lg:w-1/2 mb-16 lg:mb-0 flex">
-								<div class="w-full lg:w-1/2 px-6">
+					className="focus:outline-none border-t border-b border-gray-200 dark:border-gray-700 py-16">
+					<div className="mx-auto container px-4 xl:px-12 2xl:px-4">
+						<div className="lg:flex">
+							<div className="w-full lg:w-1/2 mb-16 lg:mb-0 flex">
+								<div className="w-full lg:w-1/2 px-6">
 									<ul>
 										<li>
 											<a
-												class="focus:outline-none focus:underline  text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline  text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Components
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Templates
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Pricing
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												FAQ
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
 												href="javascript:void(0)"
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">
 												Documentation
 											</a>
 										</li>
 									</ul>
 								</div>
-								<div class="w-full lg:w-1/2 px-6">
+								<div className="w-full lg:w-1/2 px-6">
 									<ul>
 										<li>
 											<a
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Free components
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Blog
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
-												class="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:outline-none focus:underline text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Changelog
 											</a>
@@ -74,31 +74,31 @@ function Footer() {
 									</ul>
 								</div>
 							</div>
-							<div class="w-full lg:w-1/2 flex">
-								<div class="w-full lg:w-1/2 px-6">
+							<div className="w-full lg:w-1/2 flex">
+								<div className="w-full lg:w-1/2 px-6">
 									<ul>
 										<li>
 											<a
 												href="javascript:void(0)"
-												class="focus:underline focus:outline-none text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">
+												className="focus:underline focus:outline-none text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50">
 												Privacy policy
 											</a>
 										</li>
-										<li class="mt-6">
+										<li className="mt-6">
 											<a
-												class="focus:underline focus:outline-none text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
+												className="focus:underline focus:outline-none text-xs lg:text-sm leading-none hover:text-brand dark:hover:text-brand text-gray-800 dark:text-gray-50"
 												href="javascript:void(0)">
 												Terms of service
 											</a>
 										</li>
 									</ul>
 								</div>
-								<div class="w-full lg:w-1/2 px-6 flex flex-col justify-between">
-									<div class="flex items-center mb-6">
+								<div className="w-full lg:w-1/2 px-6 flex flex-col justify-between">
+									<div className="flex items-center mb-6">
 										<a aria-label="Github" href="javascript:void(0)">
-											<div class="text-gray-800 dark:text-gray-50 cursor-pointer hover:text-brand dark:hover:text-brand">
+											<div className="text-gray-800 dark:text-gray-50 cursor-pointer hover:text-brand dark:hover:text-brand">
 												<svg
-													class="footer-icon feather feather-github"
+													className="footer-icon feather feather-github"
 													xmlns="http://www.w3.org/2000/svg"
 													width="24"
 													height="24"
@@ -115,10 +115,10 @@ function Footer() {
 										<a
 											aria-label="Twitter"
 											href="javascript:void(0)"
-											class="ml-4">
-											<div class="">
+											className="ml-4">
+											<div className="">
 												<svg
-													class="footer-icon feather feather-twitter text-gray-800 dark:text-gray-50 cursor-pointer hover:text-brand dark:hover:text-brand"
+													className="footer-icon feather feather-twitter text-gray-800 dark:text-gray-50 cursor-pointer hover:text-brand dark:hover:text-brand"
 													xmlns="http://www.w3.org/2000/svg"
 													width="24"
 													height="24"
@@ -133,11 +133,11 @@ function Footer() {
 											</div>
 										</a>
 									</div>
-									<div class="relative w-36">
+									<div className="relative w-36">
 										<svg
 											id="auto"
 											xmlns="http://www.w3.org/2000/svg"
-											class="absolute inset-0 m-auto ml-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-device-laptop"
+											className="absolute inset-0 m-auto ml-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-device-laptop"
 											width="20"
 											height="20"
 											viewBox="0 0 24 24"
@@ -153,7 +153,7 @@ function Footer() {
 										<svg
 											id="light"
 											xmlns="http://www.w3.org/2000/svg"
-											class="hidden absolute inset-0 m-auto ml-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-brightness-up"
+											className="hidden absolute inset-0 m-auto ml-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-brightness-up"
 											width="20"
 											height="20"
 											viewBox="0 0 24 24"
@@ -176,7 +176,7 @@ function Footer() {
 										<svg
 											id="dark"
 											xmlns="http://www.w3.org/2000/svg"
-											class="hidden absolute inset-0 m-auto ml-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-moon"
+											className="hidden absolute inset-0 m-auto ml-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-moon"
 											width="20"
 											height="20"
 											viewBox="0 0 24 24"
@@ -191,7 +191,7 @@ function Footer() {
 
 										<svg
 											xmlns="http://www.w3.org/2000/svg"
-											class="pointer-events-none absolute inset-0 m-auto mr-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-chevron-down"
+											className="pointer-events-none absolute inset-0 m-auto mr-3 text-gray-700 dark:text-gray-50 icon icon-tabler icon-tabler-chevron-down"
 											width="16"
 											height="16"
 											viewBox="0 0 24 24"
@@ -206,7 +206,7 @@ function Footer() {
 										<select
 											aria-label="select box"
 											onchange="switchMode(event)"
-											class="w-full focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 focus:outline-none pl-10 py-2 appearance-none flex items-center h-12 border rounded border-gray-700 dark:border-gray-50 text-sm leading-5 dark:bg-gray-900 dark:text-gray-50">
+											className="w-full focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 focus:outline-none pl-10 py-2 appearance-none flex items-center h-12 border rounded border-gray-700 dark:border-gray-50 text-sm leading-5 dark:bg-gray-900 dark:text-gray-50">
 											<option selected="" value="auto">
 												Auto
 											</option>
@@ -219,15 +219,15 @@ function Footer() {
 						</div>
 					</div>
 				</div>
-				<div class="py-16 flex flex-col justify-center items-center">
+				<div className="py-16 flex flex-col justify-center items-center">
 					<a
-						class="focus:outline-none"
+						className="focus:outline-none"
 						tabindex="0"
 						role="link"
 						aria-label="home link"
 						href="javascript:void(0)">
 						<svg
-							class="dark:text-white"
+							className="dark:text-white"
 							xmlns="http://www.w3.org/2000/svg"
 							width="86"
 							height="58"
@@ -272,7 +272,7 @@ function Footer() {
 					</a>
 					<p
 						tabindex="0"
-						class="focus:outline-none mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
+						className="focus:outline-none mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
 						2021 Tailwind UI Kit. All Rights Reserved.
 					</p>
 				</div>
@@ -283,35 +283,41 @@ function Footer() {
 
 function Footer1() {
 	return (
-		<footer class="bg-gray-800 text-gray-300 px-6 lg:px-8 py-12">
-			<div class="max-w-screen-xl mx-auto grid md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-x-8">
+		<footer className="bg-gray-800 text-gray-300 px-6 lg:px-8 py-12">
+			<div className="max-w-screen-xl mx-auto grid md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-x-8">
 				<div>
 					<img
-						class="h-8"
+						className="h-8"
 						src="/images/uptimemate-logo.svg"
 						alt="UptimeMate logo"
 					/>
-					<p class="mt-4">
+					<p className="mt-4">
 						Let our designs work for you. And save valuable time during your
 						next business adventure.
 					</p>
 				</div>
 				<div>
-					<h5 class="text-xl font-semibold text-white">Legal</h5>
-					<nav class="mt-4">
-						<ul class="space-y-2">
+					<h5 className="text-xl font-semibold text-white">Legal</h5>
+					<nav className="mt-4">
+						<ul className="space-y-2">
 							<li>
-								<a href="#" class="font-normal text-base hover:text-gray-100">
+								<a
+									href="#"
+									className="font-normal text-base hover:text-gray-100">
 									General Terms & Conditions
 								</a>
 							</li>
 							<li>
-								<a href="#" class="font-normal text-base hover:text-gray-100">
+								<a
+									href="#"
+									className="font-normal text-base hover:text-gray-100">
 									Data Processing Agreement
 								</a>
 							</li>
 							<li>
-								<a href="#" class="font-normal text-base hover:text-gray-100">
+								<a
+									href="#"
+									className="font-normal text-base hover:text-gray-100">
 									Privacy Statement
 								</a>
 							</li>
@@ -319,12 +325,12 @@ function Footer1() {
 					</nav>
 				</div>
 				<div>
-					<h5 class="text-xl font-semibold text-white">Contact</h5>
-					<div class="space-y-4 md:space-y-6 mt-4">
-						<div class="flex items-start space-x-4">
+					<h5 className="text-xl font-semibold text-white">Contact</h5>
+					<div className="space-y-4 md:space-y-6 mt-4">
+						<div className="flex items-start space-x-4">
 							<div>
 								<svg
-									class="w-6 h-6 mt-1"
+									className="w-6 h-6 mt-1"
 									fill="none"
 									stroke="currentColor"
 									viewBox="0 0 24 24"
@@ -341,8 +347,8 @@ function Footer1() {
 										d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
 								</svg>
 							</div>
-							<div class="flex-1">
-								<address class="not-italic">
+							<div className="flex-1">
+								<address className="not-italic">
 									Rorikstraat 159
 									<br />
 									Wijk bij Duurstede
@@ -351,10 +357,10 @@ function Footer1() {
 								</address>
 							</div>
 						</div>
-						<div class="flex items-start space-x-4">
+						<div className="flex items-start space-x-4">
 							<div>
 								<svg
-									class="w-6 h-6 mt-1"
+									className="w-6 h-6 mt-1"
 									fill="none"
 									stroke="currentColor"
 									viewBox="0 0 24 24"
@@ -366,8 +372,8 @@ function Footer1() {
 										d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
 								</svg>
 							</div>
-							<div class="flex-1">
-								<a href="#" class="hover:text-gray-100">
+							<div className="flex-1">
+								<a href="#" className="hover:text-gray-100">
 									support@company.com
 								</a>
 							</div>
@@ -375,36 +381,36 @@ function Footer1() {
 					</div>
 				</div>
 				<div>
-					<h5 class="text-xl font-semibold text-white">Latest news</h5>
-					<div class="space-y-8 mt-4">
-						<a href="#" class="flex items-start space-x-4 opacity-100">
+					<h5 className="text-xl font-semibold text-white">Latest news</h5>
+					<div className="space-y-8 mt-4">
+						<a href="#" className="flex items-start space-x-4 opacity-100">
 							<img
-								class="h-12 mt-1 rounded-lg overflow-hidden"
-								src="/images/placeholder-white.svg"
+								className="h-12 mt-1 rounded-lg overflow-hidden"
+								src="./images/placeholder-white.svg"
 								alt="White image placeholder"
 							/>
-							<div class="flex-1">
+							<div className="flex-1">
 								<p>
 									Lorem ipsum dolor sit amet, consec tetur ad ipiscing elit. Nam
 									non dictum magna.
 								</p>
-								<strong class="font-semibold block mt-2 text-sm text-gray-400">
+								<strong className="font-semibold block mt-2 text-sm text-gray-400">
 									2019-10-21
 								</strong>
 							</div>
 						</a>
-						<a href="#" class="flex items-start space-x-4">
+						<a href="#" className="flex items-start space-x-4">
 							<img
-								class="h-12 mt-1 rounded-lg overflow-hidden"
-								src="/images/placeholder-white.svg"
+								className="h-12 mt-1 rounded-lg overflow-hidden"
+								src="./images/placeholder-white.svg"
 								alt="White image placeholder"
 							/>
-							<div class="flex-1">
+							<div className="flex-1">
 								<p>
 									Lorem ipsum dolor sit amet, consec tetur ad ipiscing elit. Nam
 									non dictum magna.
 								</p>
-								<strong class="font-semibold block mt-2 text-sm text-gray-400">
+								<strong className="font-semibold block mt-2 text-sm text-gray-400">
 									2019-10-21
 								</strong>
 							</div>
@@ -412,12 +418,12 @@ function Footer1() {
 					</div>
 				</div>
 			</div>
-			<div class="max-w-screen-xl mx-auto flex flex-col items-center mt-16">
-				<div class="flex items-center space-x-2">
-					<a href="#" class="hover:text-gray-100">
-						<span class="sr-only">Facebook</span>
+			<div className="max-w-screen-xl mx-auto flex flex-col items-center mt-16">
+				<div className="flex items-center space-x-2">
+					<a href="#" className="hover:text-gray-100">
+						<span className="sr-only">Facebook</span>
 						<svg
-							class="h-6 w-6"
+							className="h-6 w-6"
 							aria-hidden="true"
 							fill="currentColor"
 							viewBox="0 0 24 24">
@@ -428,10 +434,10 @@ function Footer1() {
 							/>
 						</svg>
 					</a>
-					<a href="#" class="hover:text-gray-100">
-						<span class="sr-only">Instagram</span>
+					<a href="#" className="hover:text-gray-100">
+						<span className="sr-only">Instagram</span>
 						<svg
-							class="h-6 w-6"
+							className="h-6 w-6"
 							aria-hidden="true"
 							fill="currentColor"
 							viewBox="0 0 24 24">
@@ -442,10 +448,10 @@ function Footer1() {
 							/>
 						</svg>
 					</a>
-					<a href="#" class="hover:text-gray-100">
-						<span class="sr-only">Twitter</span>
+					<a href="#" className="hover:text-gray-100">
+						<span className="sr-only">Twitter</span>
 						<svg
-							class="h-6 w-6"
+							className="h-6 w-6"
 							aria-hidden="true"
 							fill="currentColor"
 							viewBox="0 0 24 24">
@@ -453,7 +459,7 @@ function Footer1() {
 						</svg>
 					</a>
 				</div>
-				<div class="text-sm mt-4">©2020 Company. All rights reserved.</div>
+				<div className="text-sm mt-4">©2020 Company. All rights reserved.</div>
 			</div>
 		</footer>
 	);
