@@ -12,12 +12,12 @@ export default function Header() {
 			<div className="flex justify-center mb-8">
 				<a
 					className="hidden md:block mx-4 border border-blue-500 px-8 text-xl font-bold text-blue-500"
-					href="#">
+					href="#downlaoad">
 					Download
 				</a>
 				<a
 					className="mx-4 border border-blue-500 px-12 text-xl  font-bold text-blue-600 transition hover:bg-blue-600 hover:text-white py-3"
-					href="#">
+					href="#github">
 					Github
 				</a>
 			</div>
