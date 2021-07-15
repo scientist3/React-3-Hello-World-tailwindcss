@@ -4,7 +4,7 @@ export default function Header() {
 			<div className="font-bold mb-8 sm:text-5xl text-8xl text-center ">
 				Flexbox Grid
 			</div>
-			<div className="text-center text-lg text-xl mb-8 ">
+			<div className="text-center text-lg mb-8 ">
 				A grid system based on the{" "}
 				<span className="text-blue-500 font-bold"> flex </span>
 				display property.
